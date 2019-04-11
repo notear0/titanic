@@ -338,3 +338,8 @@ ASALocalRun/
 
 # BeatPulse healthcheck temp database
 healthchecksdb
+/input/test.csv
+/input/gender_submission.csv
+/input/train.csv
+/PythonApplication1/PythonApplication1.pyproj
+/PythonApplication1.sln
